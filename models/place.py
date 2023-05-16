@@ -1,10 +1,15 @@
 #!/usr/bin/python3
-""" Place Module for AirBnB_cone Project """
+
+"""
+Place class that inherits from BaseModel
+"""
+
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
-    """ A place to stay """
+    """ Class that defines attributes for a place """
+
     city_id = ""
     user_id = ""
     name = ""

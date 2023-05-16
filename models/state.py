@@ -1,8 +1,13 @@
 #!/usr/bin/python3
-""" State module for AirBnB_clone Project """
+
+"""
+State class that inherits from BaseModel
+"""
+
 from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """ State class """
+    """ Class that defines attributes for a state """
+
     name = ""

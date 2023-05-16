@@ -1,9 +1,14 @@
 #!/usr/bin/python3
-""" City Module for AirBnB_clone Project """
+
+"""
+City class that inherits from BaseModel
+"""
+
 from models.base_model import BaseModel
 
 
 class City(BaseModel):
-    """ The city class, contains state ID and name """
+    """ Class that defines attributes for a city """
+
     state_id = ""
     name = ""
