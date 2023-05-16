@@ -1,10 +1,13 @@
 #!/usr/bin/python3
-"""State model for AirBnB_clone Project"""
+
+"""
+Amenity class that inherits from BaseModel: AirBnB_clone Project
+"""
 
 from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """Class for managing amenity objects"""
+    """Class for defining and managing amenity objects"""
 
     name = ""
