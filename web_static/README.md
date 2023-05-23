@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x01. AirBnB clone - Web static
 -----------------------------------------------------------------------------------------------
 
@@ -19,3 +20,6 @@ Tasks
 10. Flex: Improve the Places section by using Flexible boxes for all Place articles Repo: GitHub repository: AirBnB_clone Directory: web_static File: 101-index.html, styles/4-common.css, styles/3-header.css, styles/3-footer.css, styles/6-filters.css, styles/101-places.css, images/
 11. Responsive design: Improve the page by adding responsive design to display correctly in mobile or small screens. Repo: GitHub repository: AirBnB_clone Directory: web_static File: 102-index.html, styles/102-common.css, styles/102-header.css, styles/102-footer.css, styles/102-filters.css, styles/102-places.css, images/
 12. Accessibility: Improve the page by adding Accessibility support Repo: GitHub repository: AirBnB_clone Directory: web_static File: 103-index.html, styles/103-common.css, styles/103-header.css, styles/103-footer.css, styles/103-filters.css, styles/103-places.css, images/
+=======
+This is a README.md file
+>>>>>>> 5e789adeba12a247cb15b0d83d237da77d93750d

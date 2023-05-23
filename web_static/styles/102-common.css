@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 	margin:0px;
 	padding:0px;
@@ -10,4 +11,23 @@ body {
 .container {
     max-width: 1000px;
     margin: 30px auto;
+=======
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0px;
+    padding: 0px; 
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    max-width: 1000px;
+    margin: 30px auto;
+    width: 100%;
+    flex: 1 0 auto;
+>>>>>>> 5e789adeba12a247cb15b0d83d237da77d93750d
 }
